@@ -5,7 +5,7 @@
 ```
 nama Anggota :
 1. Rizky
-2. Happyansyah
+2. Hapiyansyah
 3. Raja (luffy op(nama github))
 4. Faiz
 5. Mizar
