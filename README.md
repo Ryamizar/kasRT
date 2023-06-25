@@ -4,10 +4,10 @@
 
 ```
 nama Anggota :
-1. Rizky
-2. Hapiyansyah
+1. Rizky s.f (ketua)
+2. M.Hapiyansyah
 3. Raja (luffy op(nama github))
-4. Faiz
+4. Faiz 
 5. Mizar
 
 ```
@@ -16,7 +16,7 @@ nama Anggota :
 ![erd](foto/erd.jpg)
 
 ```
-kami membuat 4 entitas , entitas"ny adalah Data warga, Jenis iuran, transaksi iuran dan laporan transaksi.
+kami membuat 4 entitas , entitas"nya adalah Data warga, Jenis iuran, transaksi iuran dan laporan transaksi.
 penjelasan
 * entitas data warga memiliki relationship "bayar" many to many pada entitas data transaksi iuran,
 * entitas jenis iuran memiliki relationship "ragam/jenis" one to many pada entitas data transaksi iuran,
